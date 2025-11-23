@@ -94,6 +94,6 @@ Tablular Column
 
 Result
 
-<img width="545" height="1600" alt="image" src="https://github.com/user-attachments/assets/b236f0ff-2f08-40ca-8f0f-df1ed88c12db" />
+<img width="1600" height="533" alt="image" src="https://github.com/user-attachments/assets/3f63441f-899b-4437-9747-1ddcf08f696b" />
 
 
