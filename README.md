@@ -82,17 +82,18 @@ xgrid();
 ```
 
 Output Graph
+
 <img width="748" height="659" alt="image" src="https://github.com/user-attachments/assets/95a3816f-5b7b-485e-85d3-6aa7ac362ed7" />
 
 
 Tablular Column
+
 <img width="819" height="1280" alt="image" src="https://github.com/user-attachments/assets/6177b035-88e3-4b19-bb5d-0f98b2f75cc5" />
 
 
 
 Result
+
 <img width="545" height="1600" alt="image" src="https://github.com/user-attachments/assets/b236f0ff-2f08-40ca-8f0f-df1ed88c12db" />
 
-
-Thus the DSB-SC-AM Modulation and Demodulation is generated.
 
